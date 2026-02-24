@@ -4,10 +4,10 @@ This project was developed as part of Formula Student Team Infinity Racers (UIT 
 
 The system was designed to provide real-time vehicle monitoring and driver feedback through a steering-mounted embedded display unit.
 
-## 🚗 Project Objective
+## Project Objective
 To build a reliable, compact, and responsive OBD gauge system capable of processing vehicle data and displaying critical parameters to the driver during dynamic racing conditions.
 
-## 🔧 System Overview
+## System Overview
 The OBD gauge integrates multiple sensors and display modules to deliver real-time data visualization and driver alerts.
 
 ### Key Features:
@@ -17,7 +17,7 @@ The OBD gauge integrates multiple sensors and display modules to deliver real-ti
 - Sensor data processing
 - Steering-mounted custom enclosure
 
-## ⚙️ Tech Stack & Hardware
+## Tech Stack & Hardware
 - Arduino Mega (Main Controller)
 - MCP2515 (CAN ID Data processing)
 - OLED Display Module
@@ -26,14 +26,14 @@ The OBD gauge integrates multiple sensors and display modules to deliver real-ti
 - LED Indicators
 - SolidWorks CAD Modeling for enclosure
 
-## 🛠 Engineering Learnings
+## Engineering Learnings
 During final vehicle integration, a short circuit prevented deployment of the gauge in the main car. This experience strengthened understanding of:
 - Circuit protection techniques
 - Hardware debugging
 - Reliable embedded system design
 - Real-world system integration challenges
 
-## 📍 Competition
+## Competition
 SUPRA SAE India  
 Buddh International Circuit  
 Team Achievement: AIR 7
